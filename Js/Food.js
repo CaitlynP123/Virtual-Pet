@@ -1,7 +1,7 @@
 class Food {
     constructor(){
         this.foodStock = 20
-        this.image = loadImage('images/Milk.png');
+        this.image = loadImage("Images/Milk.png");
     }
 
    updateFoodStock(foodStock){
